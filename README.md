@@ -1,25 +1,18 @@
 # **Héliton Oliveira** 
 
+[![Twitter Badge](https://img.shields.io/badge/-@hoss_dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hoss_dev)](https://twitter.com/hoss_dev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/helitonoliveira/)
+[![Gmail Badge](https://img.shields.io/badge/-heliton.oliveira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:heliton.oliveira88@gmail.com)
+
 Olá! 👋 
 
-Sou formado em Análise e Desenvolvimento de Sistemas.
+Sou um dev jr :purple_heart: por ![React Native Badge](https://img.shields.io/badge/Mobile-React%20Native-purple)
 
-Sou FullStack Developer jr utilizando as tecnologias;
-
-![ReactJS Badge](https://img.shields.io/badge/Web-ReactJs-blue)
-![React Native Badge](https://img.shields.io/badge/Mobile-React%20Native-purple)
-![NodeJS Badge](https://img.shields.io/badge/Backend-Node.js-green)
+Estou estudando as Tecnologias:  ![ReactJS Badge](https://img.shields.io/badge/Web-ReactJS-blue)  ![NodeJS Badge](https://img.shields.io/badge/Backend-Node.js-green) ![Redux Badge](https://img.shields.io/badge/ArquiteturaFlux-Redux-purple)
 
 
-### **Contatos**
 
-<p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/helitonoliveira/)
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&href=mailto:heliton.oliveira88@gmail.com)](heliton.oliveira88@gmail.com) -->
-
-</p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=heliton1988&show_icons=true" alt="heliton1988" /> </p>
 
 <!--
 **heliton1988/heliton1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
