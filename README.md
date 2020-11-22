@@ -4,15 +4,25 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/helitonoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-heliton.oliveira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:heliton.oliveira88@gmail.com)
 
-Olá! 👋 
 
-Sou um dev jr :purple_heart: por ![React Native Badge](https://img.shields.io/badge/Mobile-React%20Native-purple)
+Olá! 👋🏾
 
-Estou estudando as Tecnologias:  ![ReactJS Badge](https://img.shields.io/badge/Web-ReactJS-blue)  ![NodeJS Badge](https://img.shields.io/badge/Backend-Node.js-green) ![Redux Badge](https://img.shields.io/badge/ArquiteturaFlux-Redux-purple)
+Sou um Dev Full-Stack com foco em Front-end e valutário no programa Space Squad mentor da Rocketseat.<br /> 
 
+:purple_heart: por desenvolvimento mobile com ![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
 
+<br />
+ 
+![HTML Badge](https://img.shields.io/badge/-HTML-orange)
+![CSS Badge](https://img.shields.io/badge/-CSS-blue)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
+![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
+![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
+![Redux Badge](https://img.shields.io/badge/-Redux-purple)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=helitonoliveiraa&show_icons=true" alt="helitonoliveiraa" /> </p>
+
 
 <!--
 **heliton1988/heliton1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
