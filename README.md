@@ -1,6 +1,6 @@
 # **Héliton Oliveira** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@hoss_dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hoss_dev)](https://twitter.com/hoss_dev) 
+[![Twitter Badge](https://img.shields.io/badge/-@helitonoliveir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hoss_dev)](https://twitter.com/helitonoliveir) 
 [![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/helitonoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-heliton.oliveira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:heliton.oliveira88@gmail.com)
 
@@ -12,7 +12,7 @@ Estou estudando as Tecnologias:  ![ReactJS Badge](https://img.shields.io/badge/W
 
 
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=heliton1988&show_icons=true" alt="heliton1988" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=helitonoliveiraa&show_icons=true" alt="helitonoliveiraa" /> </p>
 
 <!--
 **heliton1988/heliton1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
