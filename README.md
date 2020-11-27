@@ -9,7 +9,7 @@ Olá! 👋🏾
 
 Sou um Dev Full-Stack com foco em Front-end e valutário no programa Space Squad mentor da Rocketseat.<br /> 
 
-:purple_heart: por desenvolvimento mobile com ![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
+:purple_heart: por desenvolvimento mobile 
 
 <br />
  
@@ -17,11 +17,12 @@ Sou um Dev Full-Stack com foco em Front-end e valutário no programa Space Squad
 ![CSS Badge](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
 ![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
+![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 ![Redux Badge](https://img.shields.io/badge/-Redux-purple)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=helitonoliveiraa&show_icons=true" alt="helitonoliveiraa" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=helitonoliveiraa&show_icons=true&theme=radical" alt="helitonoliveiraa" /> </p>
 
 
 <!--
