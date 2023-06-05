@@ -9,9 +9,9 @@ I'm a full-stack developer focused on front-end applications and I am voluntaris
 
 You can contact me using the below channels
 
-[![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/helitonoliveira/)
-[![Gmail Badge](https://img.shields.io/badge/-heliton.oliveira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:heliton.oliveira88@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@helitonoliveir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hoss_dev)](https://twitter.com/helitonoliveir) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-141321?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/helitonoliveira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-141321?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:heliton.oliveira88@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-141321?style=flat-square&labelColor=141321&logo=twitter&logoColor=white&link=https://twitter.com/hoss_dev)](https://twitter.com/helitonoliveir) 
 
  
 <!-- ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
